@@ -1,0 +1,10 @@
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\bin\Debug\3DSLoop.exe.config
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\bin\Debug\3DSLoop.exe
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\bin\Debug\3DSLoop.pdb
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\3DSLoop.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\_3DSLoop.Form1.resources
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\_3DSLoop.Properties.Resources.resources
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\3DSLoop.csproj.GenerateResource.Cache
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\3DSLoop.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\3DSLoop.exe
+C:\Users\jacob\source\repos\3DSLoop\3DSLoop\obj\Debug\3DSLoop.pdb
